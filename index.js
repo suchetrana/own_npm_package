@@ -3,5 +3,5 @@ const alogthims = require('./Algorithims')
 
 module.exports = {
     dataStructures,
-    algorithm
+    alogthims
 }

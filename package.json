@@ -1,10 +1,14 @@
 {
   "name": "suchet-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Demo package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/suchetrana/own_npm_package"
   },
   "author": "Suchet Rana",
   "license": "ISC"
