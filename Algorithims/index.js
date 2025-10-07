@@ -1,3 +1,4 @@
 module.exports = {
-    bubbleSort: require('bubbleSort')
-}
+    bubbleSort: require('./bubbleSort'),
+    binarySearch: require('./binarySearch')
+};
