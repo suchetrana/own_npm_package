@@ -1,6 +1,6 @@
 {
   "name": "suchet-npm-package",
-  "version": "1.0.4",
+  "version": "1.0.2",
   "description": "Demo package",
   "main": "index.js",
   "scripts": {
